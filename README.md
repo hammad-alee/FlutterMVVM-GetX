@@ -1,4 +1,4 @@
-# mvvm_getx
+# Flutter MVVM Architecture with GetX
 
 A new Flutter project.
 
